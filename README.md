@@ -7,7 +7,7 @@ Bem-vindo ao meu espaço no GitHub! Aqui você vai encontrar um pouco sobre mim,
 ## 🚀 Sobre mim
 
 * 💻 **Desenvolvedor apaixonado** por criar soluções eficientes e elegantes.
-* 📚 Atualmente estudando e trabalhando com , **JavaScript**, **TypeScript**, **NestJS**, **Vue.js/Quasar**, **Prisma** e **Python**.
+* 📚 Atualmente estudando e trabalhando com **JavaScript**, **TypeScript**, **NestJS**, **PostgreSQL**, **Prisma**, **Vue.js/Quasar** e **Python**.
 * 🎯 Buscando evoluir como desenvolvedor fullstack, sempre explorando novas tecnologias.
 * 💬 Se quiser conversar sobre código, tecnologia ou boas ideias, estou por aqui!
 
