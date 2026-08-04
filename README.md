@@ -3,7 +3,7 @@
 
 # 👋 Olá, eu sou Graciano Marôto
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=700&lines=Desenvolvedor+Fullstack;Estudante+de+Sistemas+de+Informação;TypeScript+%7C+NestJS+%7C+Next.js;Sempre+aprendendo+algo+novo!+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Desenvolvedor+Fullstack;Estudante+de+Sistemas+de+Informação;TypeScript+%7C+NestJS+%7C+Next.js;Sempre+aprendendo+algo+novo!+🚀" />
 
 <br>
 
@@ -84,7 +84,7 @@ const graciano = {
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GracianoMaroto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GracianoMaroto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GracianoMaroto&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -106,7 +106,7 @@ const graciano = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=GracianoMaroto&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=GracianoMaroto&theme=onedark&no-frame=true&margin-w=15"/>
 
 </div>
 
