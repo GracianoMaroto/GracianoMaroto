@@ -1,68 +1,98 @@
-# Hi there, I'm Graciano Marôto! 👋
-
-Bem-vindo ao meu espaço no GitHub! Aqui você vai encontrar um pouco sobre mim, meus projetos e o que tenho aprendido ao longo da minha jornada como desenvolvedor. Sinta-se à vontade para explorar e contribuir! 😄
-
----
-
-## 🚀 Sobre mim
-
-- 💻 **Desenvolvedor apaixonado** por criar soluções eficientes e elegantes.
-- 📚 Atualmente estudando e trabalhando com **JavaScript**, **TypeScript**, **NestJS**, **PostgreSQL**, **Prisma**, **Vue.js/Quasar** e **Python**.
-- 🎯 Buscando evoluir como desenvolvedor fullstack, sempre explorando novas tecnologias.
-- 💬 Se quiser conversar sobre código, tecnologia ou boas ideias, estou por aqui!
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
+````md
 <div align="center">
 
-### Linguagens & Frameworks
+# 👋 Olá, eu sou Graciano Marôto
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white)
-![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=700&lines=Desenvolvedor+Fullstack;Estudante+de+Sistemas+de+Informação;TypeScript+%7C+NestJS+%7C+Next.js;Sempre+aprendendo+algo+novo!+🚀" />
 
-### Banco de Dados & Backend
+<br>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=GracianoMaroto&label=Visualizações&color=0e75b6&style=for-the-badge"/>
 
-### Ferramentas & Workflow
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<a href="https://gantthub.pmvc.ba.gov.br" target="_blank">
-  <img src="https://img.shields.io/badge/GanttHub-0A5C36?style=for-the-badge" alt="GanttHub">
+<a href="https://github.com/GracianoMaroto?tab=followers">
+<img src="https://img.shields.io/github/followers/GracianoMaroto?logo=github&style=for-the-badge"/>
 </a>
 
-<a href="https://gitlab.pmvc.ba.gov.br" target="_blank">
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+<a href="https://github.com/GracianoMaroto">
+<img src="https://img.shields.io/github/stars/GracianoMaroto?affiliations=OWNER&style=for-the-badge"/>
 </a>
 
 </div>
 
 ---
 
-## 📊 Estatísticas
+# 💻 Sobre mim
+
+```ts
+const graciano = {
+    name: "Graciano Marôto",
+    role: "Fullstack Developer",
+    education: "Sistemas de Informação",
+    location: "Bahia, Brasil 🇧🇷",
+
+    currentlyLearning: [
+        "Next.js",
+        "NestJS",
+        "Prisma",
+        "PostgreSQL",
+        "Docker"
+    ],
+
+    passions: [
+        "Desenvolvimento Web",
+        "Arquitetura de Software",
+        "UI/UX",
+        "Performance",
+        "Tecnologia"
+    ],
+
+    motto: "Evoluir um pouco todos os dias 🚀"
+}
+```
+
+---
+
+# 🚀 Stack Principal
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GracianoMaroto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+### Linguagens
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GracianoMaroto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img src="https://skillicons.dev/icons?i=ts,js,python"/>
+
+### Front-end
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,vue,tailwind"/>
+
+### Back-end
+
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,prisma"/>
+
+### Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+
+### DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode"/>
 
 </div>
 
 ---
 
-## 🔥 Sequência de Contribuições
+# 📊 Estatísticas
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GracianoMaroto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GracianoMaroto&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# ⚡ Sequência de Contribuições
 
 <div align="center">
 
@@ -72,27 +102,70 @@ Bem-vindo ao meu espaço no GitHub! Aqui você vai encontrar um pouco sobre mim,
 
 ---
 
-## 🐍 Contribuições
+# 🏆 Troféus
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GracianoMaroto/GracianoMaroto/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://github-profile-trophy.vercel.app/?username=GracianoMaroto&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
 ---
 
-## ✨ Mini-Interatividade
+# 📈 Gráfico de Atividade
 
-> Clique nos badges, explore meus repositórios, abra uma issue ou deixe uma ⭐. Estou sempre construindo algo novo!
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GracianoMaroto&theme=tokyo-night&hide_border=true"/>
 
-## 📬 Entre em contato
-
-- 📧 **Email:** <gracianogestor1@gmail.com>
-- 💼 **LinkedIn:** <https://www.linkedin.com/in/graciano-mar%C3%B4to-da-cunha-neto-992554316/>
+</div>
 
 ---
 
-⭐ *Se gostou do que viu, considere deixar uma estrela em algum repositório!*
+# 🐍 Snake Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/GracianoMaroto/GracianoMaroto/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🛠 Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=typescript,javascript,nextjs,react,vue,nestjs,nodejs,prisma,postgres,mysql,docker,git,github,vscode,python"/>
+
+</div>
+
+---
+
+# 🌎 Onde me encontrar
+
+<div align="center">
+
+<a href="mailto:gracianogestor1@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/graciano-mar%C3%B4to-da-cunha-neto-992554316">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Obrigado pela visita!
+
+*"Qualquer tecnologia suficientemente avançada é indistinguível da magia."*  
+**— Arthur C. Clarke**
+
+⭐ Não esqueça de deixar uma estrela nos repositórios que você gostar!
+
+</div>
+````
