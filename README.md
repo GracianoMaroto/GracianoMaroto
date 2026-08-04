@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 # 👋 Olá, eu sou Graciano Marôto
@@ -168,4 +168,4 @@ const graciano = {
 ⭐ Não esqueça de deixar uma estrela nos repositórios que você gostar!
 
 </div>
-````
+
